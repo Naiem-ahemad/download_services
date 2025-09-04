@@ -5,3 +5,5 @@ botocore
 httpx
 python-dotenv
 psutil
+redis
+cryptography

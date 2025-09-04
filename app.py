@@ -5,7 +5,6 @@ import time
 import json
 import re
 import subprocess
-from typing import Dict, Any
 from fastapi import FastAPI, Query, HTTPException
 import psutil
 import boto3
